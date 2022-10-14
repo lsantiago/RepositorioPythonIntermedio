@@ -12,3 +12,8 @@
 
 ## Resultados
 
+## Referencias
+
+- pandas https://pandas.pydata.org/
+- [La librería Pandas](https://aprendeconalf.es/docencia/python/manual/pandas/)
+
